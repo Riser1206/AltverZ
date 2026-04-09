@@ -1,1 +1,11 @@
-
+	H {
+		display: inline-block;
+	}
+	V {
+		display: flex;
+		flex-direction: column;
+	}
+	h3 img {
+		border: none;
+		width: 25px;
+	}
